@@ -1,0 +1,24 @@
+h2 {
+
+color: red;
+font-size: 30px;
+}
+
+.leon {
+
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+#begin {
+
+    color: orange;
+
+}
+
+.text {
+    font-weight: 900;
+    text-transform: uppercase;
+}

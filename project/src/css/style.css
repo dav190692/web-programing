@@ -1,24 +1,87 @@
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+
 h2 {
+text-transform: uppercase;
+font-weight: unset;
+}
+
+/* 
+#list {
+text-align: center;
+color: red;
+
+} */
+
+.boa {
+font-style: italic;
+}
+
+.answer {
+
+    font-style: italic;
+}
+
+.hat {
+
+font-style: italic;
+}
+
+
+
+.many {
+
+font-style: italic;
+}
+
+
+.question {
 
 color: red;
-font-size: 30px;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+text-decoration: underline;
 }
 
-.leon {
-
-    color: blue;
-    text-align: center;
-    font-weight: bold;
+.draw{
+color: green;
+text-align: right;
+font-style: italic;
+text-transform: capitalize;
+text-decoration: line-through;
 }
 
 
-#begin {
+.matter {
 
-    color: orange;
+    font-style: italic;
+    color: aqua;
 
 }
 
-.text {
-    font-weight: 900;
+.no {
+color: blue;
+font-weight: bold;
+text-decoration: underline;
+
+}
+
+
+.ship{
+
+    font-size: 50px;
     text-transform: uppercase;
+    text-decoration: line-through;
+    color: orange;
+}
+
+
+.sheep {
+text-decoration: line-through;
+
+
 }
